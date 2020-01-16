@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "bf": {
+      "commandName": "Project",
+      "commandLineArgs": "negative.b"
+    }
+  }
+}
