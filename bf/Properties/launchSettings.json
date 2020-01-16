@@ -2,7 +2,7 @@
   "profiles": {
     "bf": {
       "commandName": "Project",
-      "commandLineArgs": "negative.b"
+      "commandLineArgs": "Examples/cellwidth.b"
     }
   }
 }
